@@ -6,7 +6,7 @@
     <ul class="nolist">
       <li>
         <a
-          href="https://twitter.com/jasonujmaalvis"
+          href="https://www.facebook.com/profile.php?id=100040025195164"
           target="_blank"
           aria-label="Link to Twitter account"
           rel="noopener">
@@ -16,7 +16,7 @@
       </li>
       <li>
         <a
-          href="https://github.com/jasonujmaalvis"
+          href="https://github.com/emilalvaro2024"
           target="_blank"
           aria-label="Link to GitHub account"
           rel="noopener">
@@ -26,7 +26,7 @@
       </li>
       <li>
         <a
-          href="https://www.linkedin.com/in/jason-ujma-alvis"
+          href="https://www.facebook.com/profile.php?id=100040025195164"
           target="_blank"
           aria-label="Link to LinkedIn account"
           rel="noopener">
@@ -36,7 +36,7 @@
       </li>
       <li>
         <a
-          href="mailto:hello@jason.codes"
+          href="mailto:ceo@aitek.cloud"
           aria-label="Link to Email"
           rel="noopener">
           <!-- eslint-disable-next-line -->
